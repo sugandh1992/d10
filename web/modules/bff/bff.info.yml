@@ -1,0 +1,10 @@
+name: 'BFF'
+type: module
+description: 'Provides functionality for the BFF module.'
+core_version_requirement: ^10 || ^11
+package: Custom
+dependencies:
+  - drupal:views
+  - drupal:entity_reference_revisions
+version: '1.0'
+project: 'bff'
