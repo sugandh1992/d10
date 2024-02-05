@@ -26,6 +26,9 @@ drush/commands
 simplesamlphp
 web/simplesamlphp
 
+#Composer vendor
+vendor/
+vendor/.git
 # Ignore IDE and editor specific files
 .idea
 .vscode
